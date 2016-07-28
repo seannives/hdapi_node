@@ -9,6 +9,7 @@
   "author": "Seann Ives",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.4.1",
     "command-line-args": "^3.0.0"
   }
 }

@@ -1,0 +1,6 @@
+It seems a bit odd to have ES6 promise support built into node.js and
+have none of the built-in modules return promises. This needs to get
+sorted out in node.js. Until then, I use Bluebird to promisify whole
+libraries. So, it feels like promises are about 20% implemented in
+node.js now since none of the built-in modules let you use promises
+with them without manually wrapping them first.
