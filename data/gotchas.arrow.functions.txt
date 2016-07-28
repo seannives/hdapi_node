@@ -1,0 +1,12 @@
+The new arrow functions bring a helpful function syntax to ECMAScript,
+but as with any new feature, they come with their own pitfalls and
+gotchas.
+
+Kyle Simpson, a JavaScript developer and writer, felt there were
+enough pitfalls with Arrow Functions to warrant this flow chart when
+deciding to use them. He argues there are too many confusing
+rules/syntaxes with arrow functions. Others have suggested that using
+arrow functions saves typing but ultimately makes code more difficult
+to read. All those function and return statements might make it easier
+to read multiple nested functions or just function expressions in
+general.

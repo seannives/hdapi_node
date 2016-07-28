@@ -1,0 +1,15 @@
+{
+  "name": "hdapi_node",
+  "version": "1.0.0",
+  "description": "Node based Herp Derp API",
+  "main": "hdapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seann Ives",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "command-line-args": "^3.0.0"
+  }
+}
